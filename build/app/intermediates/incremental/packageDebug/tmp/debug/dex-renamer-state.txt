@@ -1,0 +1,4 @@
+#Tue Jun 29 16:29:24 ICT 2021
+base.0=D\:\\kampus\\Mobile App dev\\Project_uas\\shopping\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
